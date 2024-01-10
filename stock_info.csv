@@ -1,7 +1,7 @@
 SYMBOL,CURRENCY,SECTOR,INDUSTRY
-DIA,USD,US30 Index,Industry
-QQQ,USD,US100 Index,Industry
-SPY,USD,US500 Index,Industry
+DIA,USD,DIA,Industry
+QQQ,USD,QQQ,Industry
+SPY,USD,SPY,Industry
 AAPL,USD,Large Market Cap,Industry
 MSFT,USD,Large Market Cap,Industry
 AMZN,USD,Large Market Cap,Industry

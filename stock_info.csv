@@ -1,1 +1,504 @@
-
+Symbol,Currency,Sector,Industry
+MMM,USD,Industrials,Industrial Conglomerates
+AOS,USD,Industrials,Building Products
+ABT,USD,Health Care,Health Care Equipment
+ABBV,USD,Health Care,Biotechnology
+ACN,USD,Information Technology,IT Consulting & Other Services
+ADBE,USD,Information Technology,Application Software
+AMD,USD,Information Technology,Semiconductors
+AES,USD,Utilities,Independent Power Producers & Energy Traders
+AFL,USD,Financials,Life & Health Insurance
+A,USD,Health Care,Life Sciences Tools & Services
+APD,USD,Materials,Industrial Gases
+ABNB,USD,Consumer Discretionary,"Hotels, Resorts & Cruise Lines"
+AKAM,USD,Information Technology,Internet Services & Infrastructure
+ALB,USD,Materials,Specialty Chemicals
+ARE,USD,Real Estate,Office REITs
+ALGN,USD,Health Care,Health Care Supplies
+ALLE,USD,Industrials,Building Products
+LNT,USD,Utilities,Electric Utilities
+ALL,USD,Financials,Property & Casualty Insurance
+GOOGL,USD,Communication Services,Interactive Media & Services
+GOOG,USD,Communication Services,Interactive Media & Services
+MO,USD,Consumer Staples,Tobacco
+AMZN,USD,Consumer Discretionary,Broadline Retail
+AMCR,USD,Materials,Paper & Plastic Packaging Products & Materials
+AMTM,USD,Industrials,Diversified Support Services
+AEE,USD,Utilities,Multi-Utilities
+AEP,USD,Utilities,Electric Utilities
+AXP,USD,Financials,Consumer Finance
+AIG,USD,Financials,Multi-line Insurance
+AMT,USD,Real Estate,Telecom Tower REITs
+AWK,USD,Utilities,Water Utilities
+AMP,USD,Financials,Asset Management & Custody Banks
+AME,USD,Industrials,Electrical Components & Equipment
+AMGN,USD,Health Care,Biotechnology
+APH,USD,Information Technology,Electronic Components
+ADI,USD,Information Technology,Semiconductors
+ANSS,USD,Information Technology,Application Software
+AON,USD,Financials,Insurance Brokers
+APA,USD,Energy,Oil & Gas Exploration & Production
+AAPL,USD,Information Technology,"Technology Hardware, Storage & Peripherals"
+AMAT,USD,Information Technology,Semiconductor Materials & Equipment
+APTV,USD,Consumer Discretionary,Automotive Parts & Equipment
+ACGL,USD,Financials,Property & Casualty Insurance
+ADM,USD,Consumer Staples,Agricultural Products & Services
+ANET,USD,Information Technology,Communications Equipment
+AJG,USD,Financials,Insurance Brokers
+AIZ,USD,Financials,Multi-line Insurance
+T,USD,Communication Services,Integrated Telecommunication Services
+ATO,USD,Utilities,Gas Utilities
+ADSK,USD,Information Technology,Application Software
+ADP,USD,Industrials,Human Resource & Employment Services
+AZO,USD,Consumer Discretionary,Automotive Retail
+AVB,USD,Real Estate,Multi-Family Residential REITs
+AVY,USD,Materials,Paper & Plastic Packaging Products & Materials
+AXON,USD,Industrials,Aerospace & Defense
+BKR,USD,Energy,Oil & Gas Equipment & Services
+BALL,USD,Materials,"Metal, Glass & Plastic Containers"
+BAC,USD,Financials,Diversified Banks
+BAX,USD,Health Care,Health Care Equipment
+BDX,USD,Health Care,Health Care Equipment
+BRK-B,USD,Financials,Multi-Sector Holdings
+BBY,USD,Consumer Discretionary,Computer & Electronics Retail
+TECH,USD,Health Care,Life Sciences Tools & Services
+BIIB,USD,Health Care,Biotechnology
+BLK,USD,Financials,Asset Management & Custody Banks
+BX,USD,Financials,Asset Management & Custody Banks
+BK,USD,Financials,Asset Management & Custody Banks
+BA,USD,Industrials,Aerospace & Defense
+BKNG,USD,Consumer Discretionary,"Hotels, Resorts & Cruise Lines"
+BWA,USD,Consumer Discretionary,Automotive Parts & Equipment
+BSX,USD,Health Care,Health Care Equipment
+BMY,USD,Health Care,Pharmaceuticals
+AVGO,USD,Information Technology,Semiconductors
+BR,USD,Industrials,Data Processing & Outsourced Services
+BRO,USD,Financials,Insurance Brokers
+BF.B,USD,Consumer Staples,Distillers & Vintners
+BLDR,USD,Industrials,Building Products
+BG,USD,Consumer Staples,Agricultural Products & Services
+BXP,USD,Real Estate,Office REITs
+CHRW,USD,Industrials,Air Freight & Logistics
+CDNS,USD,Information Technology,Application Software
+CZR,USD,Consumer Discretionary,Casinos & Gaming
+CPT,USD,Real Estate,Multi-Family Residential REITs
+CPB,USD,Consumer Staples,Packaged Foods & Meats
+COF,USD,Financials,Consumer Finance
+CAH,USD,Health Care,Health Care Distributors
+KMX,USD,Consumer Discretionary,Automotive Retail
+CCL,USD,Consumer Discretionary,"Hotels, Resorts & Cruise Lines"
+CARR,USD,Industrials,Building Products
+CTLT,USD,Health Care,Pharmaceuticals
+CAT,USD,Industrials,Construction Machinery & Heavy Transportation Equipment
+CBOE,USD,Financials,Financial Exchanges & Data
+CBRE,USD,Real Estate,Real Estate Services
+CDW,USD,Information Technology,Technology Distributors
+CE,USD,Materials,Specialty Chemicals
+COR,USD,Health Care,Health Care Distributors
+CNC,USD,Health Care,Managed Health Care
+CNP,USD,Utilities,Multi-Utilities
+CF,USD,Materials,Fertilizers & Agricultural Chemicals
+CRL,USD,Health Care,Life Sciences Tools & Services
+SCHW,USD,Financials,Investment Banking & Brokerage
+CHTR,USD,Communication Services,Cable & Satellite
+CVX,USD,Energy,Integrated Oil & Gas
+CMG,USD,Consumer Discretionary,Restaurants
+CB,USD,Financials,Property & Casualty Insurance
+CHD,USD,Consumer Staples,Household Products
+CI,USD,Health Care,Health Care Services
+CINF,USD,Financials,Property & Casualty Insurance
+CTAS,USD,Industrials,Diversified Support Services
+CSCO,USD,Information Technology,Communications Equipment
+C,USD,Financials,Diversified Banks
+CFG,USD,Financials,Regional Banks
+CLX,USD,Consumer Staples,Household Products
+CME,USD,Financials,Financial Exchanges & Data
+CMS,USD,Utilities,Multi-Utilities
+KO,USD,Consumer Staples,Soft Drinks & Non-alcoholic Beverages
+CTSH,USD,Information Technology,IT Consulting & Other Services
+CL,USD,Consumer Staples,Household Products
+CMCSA,USD,Communication Services,Cable & Satellite
+CAG,USD,Consumer Staples,Packaged Foods & Meats
+COP,USD,Energy,Oil & Gas Exploration & Production
+ED,USD,Utilities,Multi-Utilities
+STZ,USD,Consumer Staples,Distillers & Vintners
+CEG,USD,Utilities,Electric Utilities
+COO,USD,Health Care,Health Care Supplies
+CPRT,USD,Industrials,Diversified Support Services
+GLW,USD,Information Technology,Electronic Components
+CPAY,USD,Financials,Transaction & Payment Processing Services
+CTVA,USD,Materials,Fertilizers & Agricultural Chemicals
+CSGP,USD,Real Estate,Real Estate Services
+COST,USD,Consumer Staples,Consumer Staples Merchandise Retail
+CTRA,USD,Energy,Oil & Gas Exploration & Production
+CRWD,USD,Information Technology,Systems Software
+CCI,USD,Real Estate,Telecom Tower REITs
+CSX,USD,Industrials,Rail Transportation
+CMI,USD,Industrials,Construction Machinery & Heavy Transportation Equipment
+CVS,USD,Health Care,Health Care Services
+DHR,USD,Health Care,Life Sciences Tools & Services
+DRI,USD,Consumer Discretionary,Restaurants
+DVA,USD,Health Care,Health Care Services
+DAY,USD,Industrials,Human Resource & Employment Services
+DECK,USD,Consumer Discretionary,Footwear
+DE,USD,Industrials,Agricultural & Farm Machinery
+DELL,USD,Information Technology,"Technology Hardware, Storage & Peripherals"
+DAL,USD,Industrials,Passenger Airlines
+DVN,USD,Energy,Oil & Gas Exploration & Production
+DXCM,USD,Health Care,Health Care Equipment
+FANG,USD,Energy,Oil & Gas Exploration & Production
+DLR,USD,Real Estate,Data Center REITs
+DFS,USD,Financials,Consumer Finance
+DG,USD,Consumer Staples,Consumer Staples Merchandise Retail
+DLTR,USD,Consumer Staples,Consumer Staples Merchandise Retail
+D,USD,Utilities,Multi-Utilities
+DPZ,USD,Consumer Discretionary,Restaurants
+DOV,USD,Industrials,Industrial Machinery & Supplies & Components
+DOW,USD,Materials,Commodity Chemicals
+DHI,USD,Consumer Discretionary,Homebuilding
+DTE,USD,Utilities,Multi-Utilities
+DUK,USD,Utilities,Electric Utilities
+DD,USD,Materials,Specialty Chemicals
+EMN,USD,Materials,Specialty Chemicals
+ETN,USD,Industrials,Electrical Components & Equipment
+EBAY,USD,Consumer Discretionary,Broadline Retail
+ECL,USD,Materials,Specialty Chemicals
+EIX,USD,Utilities,Electric Utilities
+EW,USD,Health Care,Health Care Equipment
+EA,USD,Communication Services,Interactive Home Entertainment
+ELV,USD,Health Care,Managed Health Care
+EMR,USD,Industrials,Electrical Components & Equipment
+ENPH,USD,Information Technology,Semiconductor Materials & Equipment
+ETR,USD,Utilities,Electric Utilities
+EOG,USD,Energy,Oil & Gas Exploration & Production
+EPAM,USD,Information Technology,IT Consulting & Other Services
+EQT,USD,Energy,Oil & Gas Exploration & Production
+EFX,USD,Industrials,Research & Consulting Services
+EQIX,USD,Real Estate,Data Center REITs
+EQR,USD,Real Estate,Multi-Family Residential REITs
+ERIE,USD,Financials,Insurance Brokers
+ESS,USD,Real Estate,Multi-Family Residential REITs
+EL,USD,Consumer Staples,Personal Care Products
+EG,USD,Financials,Reinsurance
+EVRG,USD,Utilities,Electric Utilities
+ES,USD,Utilities,Electric Utilities
+EXC,USD,Utilities,Electric Utilities
+EXPE,USD,Consumer Discretionary,"Hotels, Resorts & Cruise Lines"
+EXPD,USD,Industrials,Air Freight & Logistics
+EXR,USD,Real Estate,Self-Storage REITs
+XOM,USD,Energy,Integrated Oil & Gas
+FFIV,USD,Information Technology,Communications Equipment
+FDS,USD,Financials,Financial Exchanges & Data
+FICO,USD,Information Technology,Application Software
+FAST,USD,Industrials,Trading Companies & Distributors
+FRT,USD,Real Estate,Retail REITs
+FDX,USD,Industrials,Air Freight & Logistics
+FIS,USD,Financials,Transaction & Payment Processing Services
+FITB,USD,Financials,Regional Banks
+FSLR,USD,Information Technology,Semiconductors
+FE,USD,Utilities,Electric Utilities
+FI,USD,Financials,Transaction & Payment Processing Services
+FMC,USD,Materials,Fertilizers & Agricultural Chemicals
+F,USD,Consumer Discretionary,Automobile Manufacturers
+FTNT,USD,Information Technology,Systems Software
+FTV,USD,Industrials,Industrial Machinery & Supplies & Components
+FOXA,USD,Communication Services,Broadcasting
+FOX,USD,Communication Services,Broadcasting
+BEN,USD,Financials,Asset Management & Custody Banks
+FCX,USD,Materials,Copper
+GRMN,USD,Consumer Discretionary,Consumer Electronics
+IT,USD,Information Technology,IT Consulting & Other Services
+GE,USD,Industrials,Aerospace & Defense
+GEHC,USD,Health Care,Health Care Equipment
+GEV,USD,Industrials,Heavy Electrical Equipment
+GEN,USD,Information Technology,Systems Software
+GNRC,USD,Industrials,Electrical Components & Equipment
+GD,USD,Industrials,Aerospace & Defense
+GIS,USD,Consumer Staples,Packaged Foods & Meats
+GM,USD,Consumer Discretionary,Automobile Manufacturers
+GPC,USD,Consumer Discretionary,Distributors
+GILD,USD,Health Care,Biotechnology
+GPN,USD,Financials,Transaction & Payment Processing Services
+GL,USD,Financials,Life & Health Insurance
+GDDY,USD,Information Technology,Internet Services & Infrastructure
+GS,USD,Financials,Investment Banking & Brokerage
+HAL,USD,Energy,Oil & Gas Equipment & Services
+HIG,USD,Financials,Property & Casualty Insurance
+HAS,USD,Consumer Discretionary,Leisure Products
+HCA,USD,Health Care,Health Care Facilities
+DOC,USD,Real Estate,Health Care REITs
+HSIC,USD,Health Care,Health Care Distributors
+HSY,USD,Consumer Staples,Packaged Foods & Meats
+HES,USD,Energy,Integrated Oil & Gas
+HPE,USD,Information Technology,"Technology Hardware, Storage & Peripherals"
+HLT,USD,Consumer Discretionary,"Hotels, Resorts & Cruise Lines"
+HOLX,USD,Health Care,Health Care Equipment
+HD,USD,Consumer Discretionary,Home Improvement Retail
+HON,USD,Industrials,Industrial Conglomerates
+HRL,USD,Consumer Staples,Packaged Foods & Meats
+HST,USD,Real Estate,Hotel & Resort REITs
+HWM,USD,Industrials,Aerospace & Defense
+HPQ,USD,Information Technology,"Technology Hardware, Storage & Peripherals"
+HUBB,USD,Industrials,Industrial Machinery & Supplies & Components
+HUM,USD,Health Care,Managed Health Care
+HBAN,USD,Financials,Regional Banks
+HII,USD,Industrials,Aerospace & Defense
+IBM,USD,Information Technology,IT Consulting & Other Services
+IEX,USD,Industrials,Industrial Machinery & Supplies & Components
+IDXX,USD,Health Care,Health Care Equipment
+ITW,USD,Industrials,Industrial Machinery & Supplies & Components
+INCY,USD,Health Care,Biotechnology
+IR,USD,Industrials,Industrial Machinery & Supplies & Components
+PODD,USD,Health Care,Health Care Equipment
+INTC,USD,Information Technology,Semiconductors
+ICE,USD,Financials,Financial Exchanges & Data
+IFF,USD,Materials,Specialty Chemicals
+IP,USD,Materials,Paper & Plastic Packaging Products & Materials
+IPG,USD,Communication Services,Advertising
+INTU,USD,Information Technology,Application Software
+ISRG,USD,Health Care,Health Care Equipment
+IVZ,USD,Financials,Asset Management & Custody Banks
+INVH,USD,Real Estate,Single-Family Residential REITs
+IQV,USD,Health Care,Life Sciences Tools & Services
+IRM,USD,Real Estate,Other Specialized REITs
+JBHT,USD,Industrials,Cargo Ground Transportation
+JBL,USD,Information Technology,Electronic Manufacturing Services
+JKHY,USD,Financials,Transaction & Payment Processing Services
+J,USD,Industrials,Construction & Engineering
+JNJ,USD,Health Care,Pharmaceuticals
+JCI,USD,Industrials,Building Products
+JPM,USD,Financials,Diversified Banks
+JNPR,USD,Information Technology,Communications Equipment
+K,USD,Consumer Staples,Packaged Foods & Meats
+KVUE,USD,Consumer Staples,Personal Care Products
+KDP,USD,Consumer Staples,Soft Drinks & Non-alcoholic Beverages
+KEY,USD,Financials,Regional Banks
+KEYS,USD,Information Technology,Electronic Equipment & Instruments
+KMB,USD,Consumer Staples,Household Products
+KIM,USD,Real Estate,Retail REITs
+KMI,USD,Energy,Oil & Gas Storage & Transportation
+KKR,USD,Financials,Asset Management & Custody Banks
+KLAC,USD,Information Technology,Semiconductor Materials & Equipment
+KHC,USD,Consumer Staples,Packaged Foods & Meats
+KR,USD,Consumer Staples,Food Retail
+LHX,USD,Industrials,Aerospace & Defense
+LH,USD,Health Care,Health Care Services
+LRCX,USD,Information Technology,Semiconductor Materials & Equipment
+LW,USD,Consumer Staples,Packaged Foods & Meats
+LVS,USD,Consumer Discretionary,Casinos & Gaming
+LDOS,USD,Industrials,Diversified Support Services
+LEN,USD,Consumer Discretionary,Homebuilding
+LLY,USD,Health Care,Pharmaceuticals
+LIN,USD,Materials,Industrial Gases
+LYV,USD,Communication Services,Movies & Entertainment
+LKQ,USD,Consumer Discretionary,Distributors
+LMT,USD,Industrials,Aerospace & Defense
+L,USD,Financials,Multi-line Insurance
+LOW,USD,Consumer Discretionary,Home Improvement Retail
+LULU,USD,Consumer Discretionary,"Apparel, Accessories & Luxury Goods"
+LYB,USD,Materials,Specialty Chemicals
+MTB,USD,Financials,Regional Banks
+MRO,USD,Energy,Oil & Gas Exploration & Production
+MPC,USD,Energy,Oil & Gas Refining & Marketing
+MKTX,USD,Financials,Financial Exchanges & Data
+MAR,USD,Consumer Discretionary,"Hotels, Resorts & Cruise Lines"
+MMC,USD,Financials,Insurance Brokers
+MLM,USD,Materials,Construction Materials
+MAS,USD,Industrials,Building Products
+MA,USD,Financials,Transaction & Payment Processing Services
+MTCH,USD,Communication Services,Interactive Media & Services
+MKC,USD,Consumer Staples,Packaged Foods & Meats
+MCD,USD,Consumer Discretionary,Restaurants
+MCK,USD,Health Care,Health Care Distributors
+MDT,USD,Health Care,Health Care Equipment
+MRK,USD,Health Care,Pharmaceuticals
+META,USD,Communication Services,Interactive Media & Services
+MET,USD,Financials,Life & Health Insurance
+MTD,USD,Health Care,Life Sciences Tools & Services
+MGM,USD,Consumer Discretionary,Casinos & Gaming
+MCHP,USD,Information Technology,Semiconductors
+MU,USD,Information Technology,Semiconductors
+MSFT,USD,Information Technology,Systems Software
+MAA,USD,Real Estate,Multi-Family Residential REITs
+MRNA,USD,Health Care,Biotechnology
+MHK,USD,Consumer Discretionary,Home Furnishings
+MOH,USD,Health Care,Managed Health Care
+TAP,USD,Consumer Staples,Brewers
+MDLZ,USD,Consumer Staples,Packaged Foods & Meats
+MPWR,USD,Information Technology,Semiconductors
+MNST,USD,Consumer Staples,Soft Drinks & Non-alcoholic Beverages
+MCO,USD,Financials,Financial Exchanges & Data
+MS,USD,Financials,Investment Banking & Brokerage
+MOS,USD,Materials,Fertilizers & Agricultural Chemicals
+MSI,USD,Information Technology,Communications Equipment
+MSCI,USD,Financials,Financial Exchanges & Data
+NDAQ,USD,Financials,Financial Exchanges & Data
+NTAP,USD,Information Technology,"Technology Hardware, Storage & Peripherals"
+NFLX,USD,Communication Services,Movies & Entertainment
+NEM,USD,Materials,Gold
+NWSA,USD,Communication Services,Publishing
+NWS,USD,Communication Services,Publishing
+NEE,USD,Utilities,Multi-Utilities
+NKE,USD,Consumer Discretionary,"Apparel, Accessories & Luxury Goods"
+NI,USD,Utilities,Multi-Utilities
+NDSN,USD,Industrials,Industrial Machinery & Supplies & Components
+NSC,USD,Industrials,Rail Transportation
+NTRS,USD,Financials,Asset Management & Custody Banks
+NOC,USD,Industrials,Aerospace & Defense
+NCLH,USD,Consumer Discretionary,"Hotels, Resorts & Cruise Lines"
+NRG,USD,Utilities,Independent Power Producers & Energy Traders
+NUE,USD,Materials,Steel
+NVDA,USD,Information Technology,Semiconductors
+NVR,USD,Consumer Discretionary,Homebuilding
+NXPI,USD,Information Technology,Semiconductors
+ORLY,USD,Consumer Discretionary,Automotive Retail
+OXY,USD,Energy,Oil & Gas Exploration & Production
+ODFL,USD,Industrials,Cargo Ground Transportation
+OMC,USD,Communication Services,Advertising
+ON,USD,Information Technology,Semiconductors
+OKE,USD,Energy,Oil & Gas Storage & Transportation
+ORCL,USD,Information Technology,Application Software
+OTIS,USD,Industrials,Industrial Machinery & Supplies & Components
+PCAR,USD,Industrials,Construction Machinery & Heavy Transportation Equipment
+PKG,USD,Materials,Paper & Plastic Packaging Products & Materials
+PLTR,USD,Information Technology,Internet Services & Infrastructure
+PANW,USD,Information Technology,Systems Software
+PARA,USD,Communication Services,Movies & Entertainment
+PH,USD,Industrials,Industrial Machinery & Supplies & Components
+PAYX,USD,Industrials,Human Resource & Employment Services
+PAYC,USD,Industrials,Human Resource & Employment Services
+PYPL,USD,Financials,Transaction & Payment Processing Services
+PNR,USD,Industrials,Industrial Machinery & Supplies & Components
+PEP,USD,Consumer Staples,Soft Drinks & Non-alcoholic Beverages
+PFE,USD,Health Care,Pharmaceuticals
+PCG,USD,Utilities,Multi-Utilities
+PM,USD,Consumer Staples,Tobacco
+PSX,USD,Energy,Oil & Gas Refining & Marketing
+PNW,USD,Utilities,Multi-Utilities
+PNC,USD,Financials,Diversified Banks
+POOL,USD,Consumer Discretionary,Distributors
+PPG,USD,Materials,Specialty Chemicals
+PPL,USD,Utilities,Electric Utilities
+PFG,USD,Financials,Life & Health Insurance
+PG,USD,Consumer Staples,Personal Care Products
+PGR,USD,Financials,Property & Casualty Insurance
+PLD,USD,Real Estate,Industrial REITs
+PRU,USD,Financials,Life & Health Insurance
+PEG,USD,Utilities,Electric Utilities
+PTC,USD,Information Technology,Application Software
+PSA,USD,Real Estate,Self-Storage REITs
+PHM,USD,Consumer Discretionary,Homebuilding
+QRVO,USD,Information Technology,Semiconductors
+PWR,USD,Industrials,Construction & Engineering
+QCOM,USD,Information Technology,Semiconductors
+DGX,USD,Health Care,Health Care Services
+RL,USD,Consumer Discretionary,"Apparel, Accessories & Luxury Goods"
+RJF,USD,Financials,Investment Banking & Brokerage
+RTX,USD,Industrials,Aerospace & Defense
+O,USD,Real Estate,Retail REITs
+REG,USD,Real Estate,Retail REITs
+REGN,USD,Health Care,Biotechnology
+RF,USD,Financials,Regional Banks
+RSG,USD,Industrials,Environmental & Facilities Services
+RMD,USD,Health Care,Health Care Equipment
+RVTY,USD,Health Care,Health Care Equipment
+ROK,USD,Industrials,Electrical Components & Equipment
+ROL,USD,Industrials,Environmental & Facilities Services
+ROP,USD,Information Technology,Electronic Equipment & Instruments
+ROST,USD,Consumer Discretionary,Apparel Retail
+RCL,USD,Consumer Discretionary,"Hotels, Resorts & Cruise Lines"
+SPGI,USD,Financials,Financial Exchanges & Data
+CRM,USD,Information Technology,Application Software
+SBAC,USD,Real Estate,Telecom Tower REITs
+SLB,USD,Energy,Oil & Gas Equipment & Services
+STX,USD,Information Technology,"Technology Hardware, Storage & Peripherals"
+SRE,USD,Utilities,Multi-Utilities
+NOW,USD,Information Technology,Systems Software
+SHW,USD,Materials,Specialty Chemicals
+SPG,USD,Real Estate,Retail REITs
+SWKS,USD,Information Technology,Semiconductors
+SJM,USD,Consumer Staples,Packaged Foods & Meats
+SW,USD,Materials,Paper & Plastic Packaging Products & Materials
+SNA,USD,Industrials,Industrial Machinery & Supplies & Components
+SOLV,USD,Health Care,Health Care Technology
+SO,USD,Utilities,Electric Utilities
+LUV,USD,Industrials,Passenger Airlines
+SWK,USD,Industrials,Industrial Machinery & Supplies & Components
+SBUX,USD,Consumer Discretionary,Restaurants
+STT,USD,Financials,Asset Management & Custody Banks
+STLD,USD,Materials,Steel
+STE,USD,Health Care,Health Care Equipment
+SYK,USD,Health Care,Health Care Equipment
+SMCI,USD,Information Technology,"Technology Hardware, Storage & Peripherals"
+SYF,USD,Financials,Consumer Finance
+SNPS,USD,Information Technology,Application Software
+SYY,USD,Consumer Staples,Food Distributors
+TMUS,USD,Communication Services,Wireless Telecommunication Services
+TROW,USD,Financials,Asset Management & Custody Banks
+TTWO,USD,Communication Services,Interactive Home Entertainment
+TPR,USD,Consumer Discretionary,"Apparel, Accessories & Luxury Goods"
+TRGP,USD,Energy,Oil & Gas Storage & Transportation
+TGT,USD,Consumer Staples,Consumer Staples Merchandise Retail
+TEL,USD,Information Technology,Electronic Manufacturing Services
+TDY,USD,Information Technology,Electronic Equipment & Instruments
+TFX,USD,Health Care,Health Care Equipment
+TER,USD,Information Technology,Semiconductor Materials & Equipment
+TSLA,USD,Consumer Discretionary,Automobile Manufacturers
+TXN,USD,Information Technology,Semiconductors
+TXT,USD,Industrials,Aerospace & Defense
+TMO,USD,Health Care,Life Sciences Tools & Services
+TJX,USD,Consumer Discretionary,Apparel Retail
+TSCO,USD,Consumer Discretionary,Other Specialty Retail
+TT,USD,Industrials,Building Products
+TDG,USD,Industrials,Aerospace & Defense
+TRV,USD,Financials,Property & Casualty Insurance
+TRMB,USD,Information Technology,Electronic Equipment & Instruments
+TFC,USD,Financials,Diversified Banks
+TYL,USD,Information Technology,Application Software
+TSN,USD,Consumer Staples,Packaged Foods & Meats
+USB,USD,Financials,Diversified Banks
+UBER,USD,Industrials,Passenger Ground Transportation
+UDR,USD,Real Estate,Multi-Family Residential REITs
+ULTA,USD,Consumer Discretionary,Other Specialty Retail
+UNP,USD,Industrials,Rail Transportation
+UAL,USD,Industrials,Passenger Airlines
+UPS,USD,Industrials,Air Freight & Logistics
+URI,USD,Industrials,Trading Companies & Distributors
+UNH,USD,Health Care,Managed Health Care
+UHS,USD,Health Care,Health Care Facilities
+VLO,USD,Energy,Oil & Gas Refining & Marketing
+VTR,USD,Real Estate,Health Care REITs
+VLTO,USD,Industrials,Environmental & Facilities Services
+VRSN,USD,Information Technology,Internet Services & Infrastructure
+VRSK,USD,Industrials,Research & Consulting Services
+VZ,USD,Communication Services,Integrated Telecommunication Services
+VRTX,USD,Health Care,Biotechnology
+VTRS,USD,Health Care,Pharmaceuticals
+VICI,USD,Real Estate,Hotel & Resort REITs
+V,USD,Financials,Transaction & Payment Processing Services
+VST,USD,Utilities,Electric Utilities
+VMC,USD,Materials,Construction Materials
+WRB,USD,Financials,Property & Casualty Insurance
+GWW,USD,Industrials,Industrial Machinery & Supplies & Components
+WAB,USD,Industrials,Construction Machinery & Heavy Transportation Equipment
+WBA,USD,Consumer Staples,Drug Retail
+WMT,USD,Consumer Staples,Consumer Staples Merchandise Retail
+DIS,USD,Communication Services,Movies & Entertainment
+WBD,USD,Communication Services,Broadcasting
+WM,USD,Industrials,Environmental & Facilities Services
+WAT,USD,Health Care,Life Sciences Tools & Services
+WEC,USD,Utilities,Electric Utilities
+WFC,USD,Financials,Diversified Banks
+WELL,USD,Real Estate,Health Care REITs
+WST,USD,Health Care,Health Care Supplies
+WDC,USD,Information Technology,"Technology Hardware, Storage & Peripherals"
+WY,USD,Real Estate,Timber REITs
+WMB,USD,Energy,Oil & Gas Storage & Transportation
+WTW,USD,Financials,Insurance Brokers
+WYNN,USD,Consumer Discretionary,Casinos & Gaming
+XEL,USD,Utilities,Multi-Utilities
+XYL,USD,Industrials,Industrial Machinery & Supplies & Components
+YUM,USD,Consumer Discretionary,Restaurants
+ZBRA,USD,Information Technology,Electronic Equipment & Instruments
+ZBH,USD,Health Care,Health Care Equipment
+ZTS,USD,Health Care,Pharmaceuticals
